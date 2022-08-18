@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pronef",
+    "slug": "pronef",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
