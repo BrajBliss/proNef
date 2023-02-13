@@ -7,7 +7,7 @@ const App = () => {
 		<>
 			<SectionWrapper
 				title='Your own NFT Store. Start trading now!'
-				description='Millions of people are trading NFTs. Join the revolution on Pronef Marketplace today.'
+				description='Millions of people are trading NFTs. Join the revolution on ProNef Marketplace today.'
 				showBtn
 				mockupImg={assets.homeHero}
 				banner='banner'
