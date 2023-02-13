@@ -6,8 +6,8 @@ const App = () => {
 	return (
 		<>
 			<SectionWrapper
-				title='Your own store Nifty NFTs. Start selling & Growing'
-				description='Buy, store, collect NFTs, exchange & earn crypto. Join 25+ million people using ProNef Marketplace.'
+				title='Your own NFT Store. Start trading now!'
+				description='Millions of people are trading NFTs. Join the revolution on Pronef Marketplace today.'
 				showBtn
 				mockupImg={assets.homeHero}
 				banner='banner'
@@ -21,7 +21,7 @@ const App = () => {
 			<Features />
 			<SectionWrapper
 				title='Deployment'
-				description="ProNef is built using Expo which runs natively on all users' devices. You can easily get your app into people;s hands."
+				description="ProNef is built using Expo which runs natively on all users' devices. You can easily get your app into people's hands."
 				mockupImg={assets.feature}
 				reverse
 			/>
